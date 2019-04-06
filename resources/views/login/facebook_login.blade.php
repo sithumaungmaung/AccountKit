@@ -38,7 +38,7 @@
 	  	AccountKit_OnInteractive = function(){
 	  		AccountKit.init(
 		  		{
-		  			appId:"663703900716282", 
+		  			appId:"609465006186211", 
 		  			state:"{{ csrf_token() }}", 
 		  			version:"v1.1",
 		  			fbAppEventsEnabled:true,
@@ -94,7 +94,7 @@
 	<script>
 	  	window.fbAsyncInit = function() {
 		    FB.init({
-		      appId      : '663703900716282',
+		      appId      : '609465006186211',
 		      cookie     : true,
 		      xfbml      : true,
 		      version    : 'v3.2'
